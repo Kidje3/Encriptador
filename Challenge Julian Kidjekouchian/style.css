@@ -1,0 +1,94 @@
+	/*el asterisco es para darle formato a toda la pagina*/
+
+*{
+	margin: 0;
+	padding: 0;
+	background: #E5E5E5;
+	
+	}
+
+
+main{
+	display: flex;
+	
+}
+
+.input-text{
+	font-family: "Inter" sans-serif;
+	font-size: 20px;
+	margin: 90px;
+	border: none;
+	margin-left: 180px;
+	
+}
+
+.input-text-area{
+	font-family: "Inter" sans-serif;
+	font-size: 20px;
+	position:absolute	;
+	margin-top: 20px;
+	margin-left: 900px;
+	border: none;
+	background: rgb(255, 255, 255);
+	
+	
+}
+
+#myDIV {
+	position:absolute ;
+	margin-top:20px ;
+	margin-left: 900px;
+	width: 100px;
+	height: 500px;
+	
+  }
+
+button {
+	border: none;
+	margin-left: 50px;
+}
+
+#botonCopiar {
+	position:relative;
+	margin-top: 400px;
+	margin-left: 110px;
+	border: none;
+	
+
+
+
+}
+
+#Vector2{
+	margin-left: 58px;
+	
+}
+
+#Vector1{
+	width: 28px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+
+#placeholder {
+	font-family: "Inter" sans-serif;
+	font-weight: 400;
+	font-size: 100px;
+	line-height: 150%;
+	
+}
+
+
+
+.piedepagina{
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	position:absolute;
+    font-size: 9px;
+	font-weight: 400;
+	line-height: 150%;
+	margin-top: 90px;
+	margin-left: 10px;
+}
+
+

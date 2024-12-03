@@ -1,0 +1,1 @@
+Encriptador básico.
